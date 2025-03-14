@@ -1,0 +1,44 @@
+{
+  "expertise_areas": [
+    {
+      "name": "Networking",
+      "skills": ["Configurazione router e switch", "Gestione VLAN", "Sicurezza di rete", "Troubleshooting TCP/IP", "Wi-Fi e reti wireless"]
+    },
+    {
+      "name": "Sicurezza Informatica",
+      "skills": ["Firewall e IDS/IPS", "Crittografia", "Pentesting", "Analisi delle vulnerabilità", "SIEM e gestione log"]
+    },
+    {
+      "name": "Sistemi Operativi",
+      "skills": ["Windows Server", "Linux", "MacOS", "Automazione con PowerShell e Bash", "Virtualizzazione"]
+    },
+    {
+      "name": "Cloud Computing",
+      "skills": ["AWS", "Azure", "Google Cloud", "Containerizzazione con Docker e Kubernetes", "Gestione e scalabilità cloud"]
+    },
+    {
+      "name": "Sviluppo Software",
+      "skills": ["Python", "Java", "JavaScript", "SQL e database", "Versionamento con Git"]
+    },
+    {
+      "name": "Gestione Database",
+      "skills": ["MySQL", "PostgreSQL", "MongoDB", "Ottimizzazione delle query", "Backup e ripristino"]
+    },
+    {
+      "name": "DevOps e CI/CD",
+      "skills": ["Automazione con Jenkins", "Terraform e infrastruttura come codice", "Monitoraggio con Prometheus", "GitOps", "Pipeline di distribuzione"]
+    },
+    {
+      "name": "Supporto Tecnico e Helpdesk",
+      "skills": ["Troubleshooting hardware e software", "Gestione ticket", "Assistenza remota", "ITIL", "Gestione utenti e Active Directory"]
+    },
+    {
+      "name": "Internet of Things (IoT)",
+      "skills": ["Sviluppo su microcontrollori", "Reti IoT", "Sicurezza IoT", "Analisi dati da sensori", "Cloud per IoT"]
+    },
+    {
+      "name": "Intelligenza Artificiale e Machine Learning",
+      "skills": ["Apprendimento automatico", "Reti neurali", "Elaborazione del linguaggio naturale", "Analisi dei dati", "Framework AI (TensorFlow, PyTorch)"]
+    }
+  ]
+}
